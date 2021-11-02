@@ -6,7 +6,7 @@
 	],
 
 	"weekCharacters": [
-		"Sadmouse",
+		"sadmouse",
 		"bf",
 		"gf"
 	],
@@ -18,5 +18,5 @@
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideFreeplay": true
 }
