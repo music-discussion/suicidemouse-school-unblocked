@@ -1,0 +1,4 @@
+Unhappy:sadmouse:0xFFCFCFCF
+Happy:happymouse:0xFFCFCFCF
+really happy:bipolarmouse:0xFFCFCFCF
+Smile:altsadmouse:0xFFCFCFCF
